@@ -1,0 +1,11 @@
+.carre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: blueviolet;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    font-family: 'Times New Roman';
+}
