@@ -1,0 +1,8 @@
+
+.square {
+    margin-top: -4px;
+    width: 60px;
+    height: 60px;
+    background-color: red; /* Couleur initiale */
+    display: inline-block;
+}
