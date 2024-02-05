@@ -6,3 +6,11 @@
     background-color: red; /* Couleur initiale */
     display: inline-block;
 }
+
+.grid-item {
+    width: 30px;
+    height: 30px;
+    background-color: white; /* Couleur de fond initiale */
+    border: 1px solid black; /* Bordure pour séparer les cellules */
+    cursor: pointer; /* Curseur pointer pour indiquer que la cellule est cliquable */
+}
