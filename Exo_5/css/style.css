@@ -1,0 +1,32 @@
+.convertisseur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background-color: aquamarine;
+}
+
+.saisie{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    height: 250px;
+    width: 350px;
+    color: white;
+    border-radius: 10px;
+    
+    
+}
+
+
+.label{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+input{
+    height: 35px;
+}
+
