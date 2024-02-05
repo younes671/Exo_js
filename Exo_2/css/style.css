@@ -34,6 +34,8 @@
     cursor: pointer;
 }
 
-/* .carre:hover{
+.carre.active{
+    color: black;
+    background: red;
     transform: scale(0.9) rotate(360deg);
-} */
+}

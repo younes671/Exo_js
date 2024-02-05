@@ -1,0 +1,41 @@
+.block{
+    display: block;
+    justify-items: center;
+    align-items: center;
+}
+
+.block_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+ .block_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block_3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.carre{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: blueviolet;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    opacity: 0.5;
+    font-family: 'Times New Roman';
+    transition: transform 1s;
+    transform : scale(0.9) rotate (360deg);
+    cursor: pointer;
+}
